@@ -48,6 +48,5 @@ I enjoy creating projects that combine programming, AI, and interactive design. 
 
 ## Contact
 
-- GitHub: [Albert;ungu](https://github.com/Albertlungu) Idk why you need this, cause you're already here!
-- LinkedIn: [Albert Lungu](https://www.linkedin.com/in/albert-lungu)  
+- GitHub: [Albertlungu](https://github.com/Albertlungu) Idk why you need this, cause you're already here!
 - Email: albert.lungu.2010@gmail.com
