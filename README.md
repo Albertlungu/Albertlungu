@@ -33,10 +33,8 @@ I enjoy creating projects that combine programming, AI, and interactive design. 
 
 ## Significant Projects
 
-- **[PyGPT](https://github.com/AlbertLungu/PyGPT)** – A custom GPT-like language model built in Python. Includes tokenizer, embeddings, transformer block, and training pipeline.
+- **[Nous](https://github.com/AlbertLungu/PyGPT)** – A custom GPT-like language model built in Python. Includes tokenizer, embeddings, transformer block, and training pipeline.
 - **[Ashes of The Fallen](https://github.com/Albertlungu/ashes_of_the_fallen_demo)** - A 3D game made with Godot for Daydream Global, featuring the theme "Sacrifices Must be Made."
-- **[Personal Portfolio Website](https://github.com/Albertlungu/Portfolio-Website)** - My own website! (in progress)
-
 ---
 
 ## GitHub Stats
